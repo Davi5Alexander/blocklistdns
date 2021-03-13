@@ -1,1 +1,1 @@
-# Personal block list for dns server
+# Personal blocklist for dns server
