@@ -8,6 +8,9 @@
 ||dus01.ps4.update.playstation.net^
 ||djp01.ps4.update.playstation.net^
 ||fjp01.ps4.update.playstation.net^
+||duk01.ps4.update.playstation.net^
+||fsa01.ps4.update.playstation.net^
+||dsa01.ps4.update.playstation.net^
 ||ps4updptl.eu.np.community.playstation.net^
 ||tmdb.np.dl.playstation.net^
 ||themis.dl.playstation.net^
@@ -42,3 +45,4 @@
 ||us.np.stun.playstation.net^
 ||static-resource.np.community.playstation.net^
 ||ps4updptl.uk.np.community.playstation.net^
+||ps4updptl.sa.np.community.playstation.net^
