@@ -1,1 +1,2 @@
 ||browser.sentry-cdn.com^
+||pf-bricksnballs.appspot.com^
